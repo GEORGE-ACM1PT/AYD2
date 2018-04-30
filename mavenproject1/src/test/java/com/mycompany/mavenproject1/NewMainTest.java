@@ -57,7 +57,7 @@ public class NewMainTest {
         System.out.println("metodo");
         int i = 0;
         NewMain instance = new NewMain();
-        int expResult = 2;
+        int expResult = 1;
         int result = instance.metodo(i);
         assertEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
