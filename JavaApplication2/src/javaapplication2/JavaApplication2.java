@@ -10,5 +10,13 @@ public class JavaApplication2 {
     public static void main(String[] args) {
         // TODO code application logic here
     
-    }//kkkk
+        
+    }//\kkkk
+    
+    
+    public int metodo(int i )
+    {
+    return i+1;
+    }
+    
 }
