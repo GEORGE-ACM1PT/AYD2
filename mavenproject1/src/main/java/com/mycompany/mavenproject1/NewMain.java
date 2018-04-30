@@ -17,6 +17,10 @@ public class NewMain {
     public int metodo(int i )
     {
     
-      return i+1;
+      return i++;
+      
+      
+      
+      
     }
 }

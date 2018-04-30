@@ -49,9 +49,7 @@ public class NewMainTest {
        // fail("The test case is a prototype.");
     }
 
-    /**
-     * Test of metodo method, of class NewMain.
-     */
+ 
     @org.junit.Test
     public void testMetodo() {
         System.out.println("metodo");
