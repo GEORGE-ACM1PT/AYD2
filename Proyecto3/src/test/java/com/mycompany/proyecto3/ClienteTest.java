@@ -80,7 +80,7 @@ public class ClienteTest {
     public void testConsultarSaldo() {
         System.out.println("ConsultarSaldo");
         Cliente instance =  new Cliente("JORGE","LUIS","255599680","6793493",1000,"luiscarrillo129@gmail.com","HOLA");
-        long expResult = 1000;
+        long expResult = 100;
         long result = instance.ConsultarSaldo();
         assertEquals(expResult, result);
         
