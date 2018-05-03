@@ -92,6 +92,7 @@ public class ClienteTest {
 
 
     @org.junit.Test
+    
     public void testTranferencia() {
         System.out.println("tranferencia");
         String c = "12345";
