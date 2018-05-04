@@ -87,6 +87,9 @@ public class ClienteTest {
         if(result!=expResult)
         {
              fail("The test case is a prototype.");
+             
+             
+             
         }
     }
 
