@@ -64,7 +64,7 @@ public class ClienteTest {
         System.out.println("Debito");
         long c = 1001;
         Cliente instance =  new Cliente("JORGE","LUIS","255599680","6793493",1000,"luiscarrillo129@gmail.com","HOLA");
-        boolean expResult = false;
+        boolean expResult = true;
         boolean result = instance.Debito(c);
         assertEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
