@@ -85,6 +85,9 @@ public class ClienteTest {
         assertEquals(expResult, result);
         
         if(result!=expResult)
+            
+            
+            
         {
              fail("The test case is a prototype.");
              
